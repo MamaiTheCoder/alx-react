@@ -1,0 +1,30 @@
+.App {
+  height: 100vh;
+}
+
+.App-header {
+  display: flex;
+  align-items: center;
+  border-bottom: 2px solid #e0354b;
+}
+
+.App-header > h1 {
+  color: #e0354b;
+}
+
+.App-logo {
+  height: 200px;
+}
+
+.App-body {
+  margin: 0;
+  border-bottom: 2px solid #e0354b;
+  padding: 20px 30px;
+  height: 45%;
+}
+
+.App-footer {
+  text-align: center;
+  font-style: italic;
+  padding-top: 20px;
+}
